@@ -1,0 +1,16 @@
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/19013369_Helloworld
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/19013369_Helloworld.deps.json
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/19013369_Helloworld.runtimeconfig.json
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/19013369_Helloworld.runtimeconfig.dev.json
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/19013369_Helloworld.dll
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/ref/19013369_Helloworld.dll
+/home/dishani/19013369_Helloworld/bin/Debug/net5.0/19013369_Helloworld.pdb
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.csprojAssemblyReference.cache
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.AssemblyInfoInputs.cache
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.AssemblyInfo.cs
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.csproj.CoreCompileInputs.cache
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.dll
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/ref/19013369_Helloworld.dll
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.pdb
+/home/dishani/19013369_Helloworld/obj/Debug/net5.0/19013369_Helloworld.genruntimeconfig.cache
